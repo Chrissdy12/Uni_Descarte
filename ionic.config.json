@@ -1,0 +1,7 @@
+{
+  "name": "Uni-Descarte",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
